@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm DarkslayerHaos</h1>
 <h3 align="center">Just a hobby programmer who only does things when necessary.</h3>
-<p>"All things in this world and others require an order to them. When things are out of order, the universe corrects them; I am that correction."</p>
+<p align="center">"All things in this world and others require an order to them. When things are out of order, the universe corrects them; I am that correction."</p>
 
 <h2 align="center">Social</h2>
 <p align="center">
