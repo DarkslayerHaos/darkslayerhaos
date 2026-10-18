@@ -1,6 +1,32 @@
-<h1 align="center">Hi 👋, I'm DarkslayerHaos</h1>
-<h3 align="center">Just a hobby programmer who only does things when necessary.</h3>
-<p align="center">"All things in this world and others require an order to them. When things are out of order, the universe corrects them; I am that correction."</p>
+<h2 align="center">Hi 👋, Foreigner Visitor!</h1>
+<h3 align="center">I'm just a hobby programmer who only does things when necessary.</h3>
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+struct Developer {
+    std::string alias        = "DarkslayerHaos";
+    std::string role         = "Hobby Programmer";
+    std::vector<std::string> languages = { "C++", "TypeScript", "JavaScript", "Python" };
+    bool active_daily        = false;
+    std::string motto        = "I only compile when it matters.";
+
+    void introduce() const {
+        std::cout << "[+] Alias: "  << alias  << "\n";
+        std::cout << "[+] Role: "   << role   << "\n";
+        std::cout << "[+] Status: " << (active_daily ? "Online" : "Idle until inspired") << "\n";
+        std::cout << "[+] Motto: \"" << motto << "\"\n";
+    }
+};
+
+int main() {
+    const Developer me;
+    me.introduce();
+    return 0;
+}
+```
 
 <h2 align="center">Social</h2>
 <p align="center">
@@ -8,38 +34,21 @@
 </p>
 
 <h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-plain.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9333EA?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-5B21B6?style=for-the-badge&logo=Python&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-5B21B6?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-6D28D9?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-5B21B6?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
+![DiscordJS](https://img.shields.io/badge/discordjs-A855F7?style=for-the-badge&logo=discord&logoColor=white)
+</div>
