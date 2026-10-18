@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, Foreigner Visitor!</h1>
+<h1 align="center">Welcome, wanderer 🥷</h1>
 <h3 align="center">I'm just a hobby programmer who only does things when necessary.</h3>
 
 ```cpp
@@ -14,9 +14,9 @@ struct Developer {
     std::string motto        = "I only compile when it matters.";
 
     void introduce() const {
-        std::cout << "[+] Alias: "  << alias  << "\n";
-        std::cout << "[+] Role: "   << role   << "\n";
-        std::cout << "[+] Status: " << (active_daily ? "Online" : "Idle until inspired") << "\n";
+        std::cout << "[+] Alias: "   << alias  << "\n";
+        std::cout << "[+] Role: "    << role   << "\n";
+        std::cout << "[+] Status: "  << (active_daily ? "Online" : "Idle until inspired") << "\n";
         std::cout << "[+] Motto: \"" << motto << "\"\n";
     }
 };
@@ -28,7 +28,7 @@ int main() {
 }
 ```
 
-<h2 align="center">Languages and Tools</h2>
+<h1 align="center">Languages and Tools</h1>
 
 <div align="center">
 
