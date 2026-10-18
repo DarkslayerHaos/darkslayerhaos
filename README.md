@@ -28,11 +28,6 @@ int main() {
 }
 ```
 
-<h2 align="center">Social</h2>
-<p align="center">
-  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/317476980855537666?theme=dark&bg=212121&animated=true&borderRadius=17px&idleMessage=Probably%20doing%20something%20else..." alt="darkslayerhaos" />
-</p>
-
 <h2 align="center">Languages and Tools</h2>
 
 <div align="center">
