@@ -43,11 +43,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkslayerHaos&show_icons=true&theme=dark&bg_color=212121&hide_border=true" alt="DarkslayerHaos stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkslayerHaos&theme=dark&background=212121&hide_border=true" alt="DarkslayerHaos streak" />
-</p>
